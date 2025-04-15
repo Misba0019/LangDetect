@@ -46,7 +46,6 @@ A simple command-line tool to detect the language of a given text using the `fra
 - [langs](https://www.npmjs.com/package/langs): For mapping language codes to human-readable names.
 
 - [colors](https://www.npmjs.com/package/colors): For adding color to console outputs.
-How It Works
 
 ## How It Works
 
@@ -67,3 +66,6 @@ How It Works
 ## Credits
 
 - Powered by the open-source libraries [franc](https://github.com/wooorm/franc/tree/main), [langs](https://github.com/adlawson/nodejs-langs), and [colors](https://github.com/Marak/colors.js).
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
