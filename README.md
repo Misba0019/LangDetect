@@ -39,6 +39,13 @@ A simple command-line tool to detect the language of a given text using the `fra
 
 - Node.js (version 18 or higher)
 
+## Libraries Used
+
+- [franc](https://www.npmjs.com/package/franc): For detecting the language code.
+- [langs](https://www.npmjs.com/package/langs): For mapping language codes to human-readable names.
+- [colors](https://www.npmjs.com/package/colors): For adding color to console outputs.
+How It Works
+
 ## How It Works
 
 1. The tool takes a text input from the command line.
@@ -49,5 +56,12 @@ A simple command-line tool to detect the language of a given text using the `fra
 
 4. If the language cannot be determined (`und`) or is unsupported, the tool provides feedback to the user.
 
+## Limitations
+
+- Short or ambiguous text may result in incorrect or undefined language detection.
+
+- Some uncommon languages may not be supported by the `langs` library.
+
 ## Credits
+
 - Powered by the open-source libraries [franc](https://github.com/wooorm/franc/tree/main), [langs](https://github.com/adlawson/nodejs-langs), and [colors](https://github.com/Marak/colors.js).
