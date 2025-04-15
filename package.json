@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "name": "langguess",
+  "version": "1.0.0",
+  "exports": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Misba Ali",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "franc": "^6.2.0",
+    "langs": "^2.0.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
