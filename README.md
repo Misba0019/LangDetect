@@ -42,7 +42,9 @@ A simple command-line tool to detect the language of a given text using the `fra
 ## Libraries Used
 
 - [franc](https://www.npmjs.com/package/franc): For detecting the language code.
+
 - [langs](https://www.npmjs.com/package/langs): For mapping language codes to human-readable names.
+
 - [colors](https://www.npmjs.com/package/colors): For adding color to console outputs.
 How It Works
 
