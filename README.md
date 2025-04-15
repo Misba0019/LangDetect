@@ -14,7 +14,7 @@ A simple command-line tool to detect the language of a given text using the `fra
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/lang-detect-tool.git
+   git clone https://github.com/Misba0019/lang-detect-tool.git
    cd lang-detect-tool
    
 
