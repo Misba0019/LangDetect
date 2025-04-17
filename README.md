@@ -1,5 +1,5 @@
 # Lang-Detect-Tool
-
+## Overview
 A simple command-line tool to detect the language of a given text using the `franc` library for language detection, `langs` for mapping language codes to names, and `colors` for colorful console outputs.
 
 ## Features
@@ -17,7 +17,6 @@ A simple command-line tool to detect the language of a given text using the `fra
    git clone https://github.com/Misba0019/lang-detect-tool.git
    cd lang-detect-tool
    
-
 2. Install dependencies:
    ```bash
    npm install
@@ -29,7 +28,6 @@ A simple command-line tool to detect the language of a given text using the `fra
 - Example: 
   ```bash
   node index.js "Hello, this tool can guess different languages."
-
 - Output: 
   ```bash
   Detected language code: eng
