@@ -1,5 +1,7 @@
 # Lang-Detect-Tool
+
 ## Overview
+
 A simple command-line tool to detect the language of a given text using the `franc` library for language detection, `langs` for mapping language codes to names, and `colors` for colorful console outputs.
 
 ## Features
@@ -60,6 +62,41 @@ A simple command-line tool to detect the language of a given text using the `fra
 - Short or ambiguous text may result in incorrect or undefined language detection.
 
 - Some uncommon languages may not be supported by the `langs` library.
+
+## Contributing
+
+Contributions are welcome! Feel free to fork the repository and submit a pull request.  
+
+To get started:
+1. **Fork** the repo.
+
+2. **Clone** your forked repository. 
+
+3. **Create** a new branch:  
+   `git checkout -b feature-name`
+
+4. **Make** your changes.
+
+5. **Stage** your changes:  
+   `git add .`
+
+4. **Commit** your changes:  
+   `git commit -m "Add feature"`
+
+5. **Push** to your fork:  
+   `git push origin feature-name`
+
+6. **Create** a Pull Request:  
+   - Navigate to your forked repository on GitHub.
+
+   - Click on the "Compare & pull request" button.
+
+   - Provide a clear title and description for your pull request.
+
+   - Submit the pull request to the original repository.
+
+Please ensure your code follows the existing style and includes clear, descriptive commit messages.  
+Thank you for your contribution! 🤍
 
 ## Credits
 
